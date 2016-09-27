@@ -163,7 +163,7 @@ cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/shops_pd
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/shops_sql.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/shops_json.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/shops_xml.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
-zip -FF miskolc_statues.zip --out statues_sql.zip
+zip -FF miskolc_statues.zip --out statues_sql2.zip
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/statues_sql.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/statues_xml.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
 cp -avr $APPLICATION_DIRECTORY/github/$APPLICATION_NAME-master/contents/statues_json.zip $APPLICATION_DIRECTORY/public_html/sites/default/files/opendata
